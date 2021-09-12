@@ -1,0 +1,11 @@
+Structure and Union
+1) Create a structure Student. Create array of 10 students using MACRO and display data in 
+tabular form. 
+2) Create a structure Employee. Accept data for 5 employees and display it.
+3) Demonstrate use of union and find out size of union variable and the attributes from union.
+4) WAP to demonstrate typedef keyword.
+5) WAP to copy one structure into another. Use concept of nested structures.
+a. Create Employee structure having attributes as id, name and basic salary.
+b. Create Date structure having attributes as dd,mm,yy.
+c. Nest Date structure into Employee as to display joining date of employee.
+6) Create a structure Employee. Pass it to a function by value
